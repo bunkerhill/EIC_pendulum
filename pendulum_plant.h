@@ -1,5 +1,3 @@
-#pragma once
-
 #ifndef PENDULUM_PLANT_H
 #define PENDULUM_PLANT_H
 

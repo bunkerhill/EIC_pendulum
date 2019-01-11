@@ -1,5 +1,3 @@
-#pragma once
-
 #ifndef DESIRED_TRJ_H
 #define DESIRED_TRJ_H
 

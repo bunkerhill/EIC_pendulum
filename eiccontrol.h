@@ -1,5 +1,3 @@
-#pragma once
-
 #ifndef  EICCONTROL_H
 #define  EICCONTROL_H
 
